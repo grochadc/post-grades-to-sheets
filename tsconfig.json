@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./",
+    "target": "ES6"
+  },
+  "files": [
+    "src/lib.ts",
+    "src/index.ts"
+  ]
+}
